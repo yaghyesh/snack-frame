@@ -1,2 +1,1 @@
-# snack-frame
-food ordering app
+# snackframe
